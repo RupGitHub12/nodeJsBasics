@@ -1,3 +1,10 @@
 //create a git repository in github
 //run - git init
+//git add .
 //git commit -m "first commit"
+
+
+//run 3 command from ( push an existing repository from the command line)
+
+//share github repository
+//need to run npm install (setup node_modules folder)
