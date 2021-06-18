@@ -1,0 +1,16 @@
+need to install nodemon dependency
+it watches file and restart app automatically
+we don't need to run command everytime
+
+//npm i nodemon -D
+add scripts in package.json
+//"dev": "nodemon app.js"
+
+now run npm run dev instead of npm start or node app.js
+
+
+install nodemon globally
+npm i -g nodemon
+and you can run "nodemon app.js"
+or simply use "npx nodemon app.js"
+//allows run not installed 

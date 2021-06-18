@@ -9,7 +9,7 @@
 //after next time
 //run git add .
 //  git commit -m "3rd commit"
-//git push .
+//  git push -u origin main
 
 //share github repository
 //need to run npm install (setup node_modules folder)

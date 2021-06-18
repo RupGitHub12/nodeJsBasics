@@ -10,3 +10,11 @@
 //package.json - manifest file (stores important info about project/package)
 //npm init (step by step)
 //npm init -y (everything default)
+
+
+go to package.json and add shortcut commands
+
+
+
+Uninstall packages
+eg. npm uninstall bootstrap

@@ -1,0 +1,14 @@
+eg. "lodash" : "^4.17.21"
+
+4 => Major change, 
+    There are some breaking changes
+17 => Minor changes,
+    Backward compatible,
+    no breaking changes
+21 => bug fixes
+
+
+package-lock.json
+    dependencies consistent,
+    eg. bootstrap uses jquiry's specific version dependencies,
+    so package-lock.json manages it
